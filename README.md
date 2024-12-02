@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html, css, js and python(machine learning)
 - 💞️ I’m looking to collaborate on any projects looking future 
 - 📫 How to reach me on instagram.com/duuh7 and email: coutinhoeduardo192@gmail.com
-- 😄 Pronouns: he/his
+- 😄 Pronouns: he
 - ⚡ Fun fact: 
 
 <!---

@@ -1,10 +1,16 @@
-- 👋 Hi, I’m Eduardo Coutinho, i study I.T on universidade federal da bahia
-- 👀 I’m interested in study any languages and future jobs
-- 🌱 I’m currently learning html, css, js and python(machine learning)
-- 💞️ I’m looking to collaborate on any projects looking future 
-- 📫 How to reach me on instagram.com/duuh7 and email: coutinhoeduardo192@gmail.com
-- 😄 Pronouns: he
-- ⚡ Fun fact: 
+ 👋 Hi, I’m Eduardo Coutinho  
+I'm an I.T. student at Universidade Federal da Bahia.
+
+- 👀 I’m interested in learning programming languages and exploring future career opportunities  
+- 🌱 Currently learning HTML, CSS, JavaScript, and Python (with a focus on Machine Learning)  
+- 💻 Looking to collaborate on beginner-friendly or future-focused projects  
+- 📫 Reach me on [Instagram](https://instagram.com/eduardo.ipynb) or email: **coutinhoeduardo192@gmail.com**  
+- 😄 Pronouns: He/Him  
+
+
+---
+
+Would you like help coming up with a fun fact or setting this up on GitHub or a personal website?
 
 <!---
 iitzduuu/iitzduuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

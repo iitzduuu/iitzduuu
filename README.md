@@ -9,6 +9,7 @@ I'm an I.T. student at Universidade Federal da Bahia.
 
 
 ---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitzduuu&layout=compact&theme=tokyonight)
 
 Would you like help coming up with a fun fact or setting this up on GitHub or a personal website?
 

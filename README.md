@@ -11,6 +11,9 @@ I'm an I.T. student at Universidade Federal da Bahia.
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitzduuu&layout=compact&theme=tokyonight)
 
+![iitzduuu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iitzduuu&show_icons=true&theme=radical)
+
+
 
 
 <!---

@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Eduardo Coutinho!
 
-I'm a developer in training and a student pursuing an Interdisciplinary Bachelor's Degree in Science and Technology at the **Federal University of Bahia (UFBA)** in Brazil. I'm passionate about solving problems and building efficient technological solutions.
+I'm a developer in training and a student pursuing an Interdisciplinary Bachelor's Degree in Science and Technology at the **Federal University of Bahia (UFBA)** in Brazil, i'm passionate about solving problems and building efficient technological solutions.
 
 Currently, I'm focusing my studies on **Cybersecurity** while continuously honing my skills in software development and process automation.
 
@@ -22,10 +22,6 @@ Here are some of the technologies I've been working with:
   </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f04192844fe230f364314715c4bdf3/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  </a>
 </p>
 
 ---
@@ -45,15 +41,9 @@ Here are some of the technologies I've been working with:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitzduuu&layout=compact&langs_count=7&theme=dracula)
 
 ---
-
-### ✨ Featured Projects
-
-* **[Financial Analyzer (Python/Flet/Flask)](https://github.com/iitzduuu/your-repo-link-here)**: A complete desktop application that reads CSV files, performs financial analysis, and generates reports with charts and PDFs.
-* **[Your Other Project Name](https://github.com/iitzduuu/your-other-repo-link)**: A brief description of what this project does, the technologies used, and what you learned from it.
-
----
-
 ### 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/eduardo-coutinho-284516211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-coutinho-2
+<a href="https://www.linkedin.com/in/eduardo-coutinho-284516211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-coutinho-284516211" height="30" width="40" /></a>
+<a href="https://instagram.com/iitzduuu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iitzduuu" height="30" width="40" /></a>
+</p>

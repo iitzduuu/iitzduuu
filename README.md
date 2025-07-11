@@ -37,7 +37,6 @@ Here are some of the technologies I've been working with:
 
 ### 📈 My GitHub Stats
 
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=iitzduuu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iitzduuu&layout=compact&langs_count=7&theme=dracula)
 
 ---
